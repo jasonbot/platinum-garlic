@@ -1,5 +1,5 @@
 {
-	"text-alignment": "center",
+	"text-alignment": "left",
 	"text-margin": 16,
 	"color-guide": "#000000",
 	"color-inactive": "#6b6b6b",
@@ -10,15 +10,15 @@
 	"guide-button-text-visibility": true,
 	"recent-label": "Recent",
 	"favorites-label": "Favorites",
-	"consoles-label": "Consoles",
-	"retroarch-label": "RetroArch",
+	"consoles-label": "Systems",
+	"retroarch-label": "Settings",
 	"rtc-label": "RTC",
 	"navigate-label": "NAVIGATE",
 	"open-label": "OPEN",
 	"back-label": "BACK",
 	"favorite-label": "FAVORITE",
 	"remove-label": "REMOVE",
-	"empty-label": "Nothing to see here! Move along!",
+	"empty-label": "empty",
 	"on-label": "ON",
 	"off-label": "OFF",
 	"am-label": "AM",
@@ -29,5 +29,5 @@
 	"hour-label": "HH",
 	"minute-label": "MM",
 	"meridian-time-label": "MT",
-	"title-label": "GarlicOS %s"
+	"title-label": "Garlic %s"
 }
